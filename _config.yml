@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: wills_blog
+title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: Shensw
+author: John Doe
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://shen-shi-wei.github.io/
+url: http://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,6 +103,4 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@github.com:shen-shi-wei/shen-shi-wei.github.io.git
-  branch: gh-pages
+  type: ''
